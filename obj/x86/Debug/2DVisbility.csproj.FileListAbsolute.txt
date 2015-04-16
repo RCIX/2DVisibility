@@ -1,0 +1,18 @@
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Player.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Invisible.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Opaque.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Level.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Visible.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\2DVisbility.exe
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\2DVisbility.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\XNAHelpers.dll
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\XNAHelpers.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\obj\x86\Debug\2DVisbility.exe
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\obj\x86\Debug\2DVisbility.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Invisible 4x.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Visible 4x.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Player 4x.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Opaque 4x.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Level 4x.xnb

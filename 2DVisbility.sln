@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DVisbility", "2DVisbility.csproj", "{A534A631-8BB4-4A9F-8E4D-80EB88925229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A534A631-8BB4-4A9F-8E4D-80EB88925229}.Debug|x86.ActiveCfg = Debug|x86
+		{A534A631-8BB4-4A9F-8E4D-80EB88925229}.Debug|x86.Build.0 = Debug|x86
+		{A534A631-8BB4-4A9F-8E4D-80EB88925229}.Release|x86.ActiveCfg = Release|x86
+		{A534A631-8BB4-4A9F-8E4D-80EB88925229}.Release|x86.Build.0 = Release|x86
+		{FD536CE8-6818-4FD3-9EA4-D5A7CA6C0CD9}.Debug|x86.ActiveCfg = Debug|x86
+		{FD536CE8-6818-4FD3-9EA4-D5A7CA6C0CD9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

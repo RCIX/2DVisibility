@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Invisible.png</Source>
+      <Name>Invisible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Invisible.xnb</Output>
+      <Time>2011-12-19T19:47:55.182237-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level.png</Source>
+      <Name>Level</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Level.xnb</Output>
+      <Time>2011-12-27T02:34:02.8358752-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Opaque.png</Source>
+      <Name>Opaque</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Opaque.xnb</Output>
+      <Time>2011-12-19T19:47:55.183237-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Visible.png</Source>
+      <Name>Visible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Visible.xnb</Output>
+      <Time>2011-12-19T19:47:55.1802369-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player.png</Source>
+      <Name>Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Player.xnb</Output>
+      <Time>2011-12-19T19:54:00.7301451-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Invisible 4x.png</Source>
+      <Name>Invisible 4x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Invisible 4x.xnb</Output>
+      <Time>2011-12-19T21:56:42.3492057-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Opaque 4x.png</Source>
+      <Name>Opaque 4x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Opaque 4x.xnb</Output>
+      <Time>2011-12-19T21:56:42.3532059-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player 4x.png</Source>
+      <Name>Player 4x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Player 4x.xnb</Output>
+      <Time>2011-12-19T21:56:42.3482056-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Visible 4x.png</Source>
+      <Name>Visible 4x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Visible 4x.xnb</Output>
+      <Time>2011-12-19T21:56:42.3522058-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level 4x.png</Source>
+      <Name>Level 4x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\Level 4x.xnb</Output>
+      <Time>2011-12-27T02:34:02.8368753-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\2DVisbility\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-11-19T17:30:38.3062699-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
